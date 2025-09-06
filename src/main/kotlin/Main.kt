@@ -5,12 +5,13 @@ fun main() {
 }
 
 val items = arrayOf(
-    "Beach and Cold" to 17,
-    "Toiletries" to 12,
+    "Beach" to 8,
+    "Cold" to 8,
+    "Toiletries" to 3,
     "Documents" to 6,
-    "Health" to 8,
+    "Health" to 10,
     "Clothes" to 10,
-    "Electronics" to 10,
+    "Electronics" to 14,
 )
 
 /**
